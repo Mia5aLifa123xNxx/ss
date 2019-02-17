@@ -2013,4 +2013,4 @@ if (message.content.startsWith(prefix + 'نقاطي')) {
         }
     }});
     
-client.login(process.env.NTQ1NzAyNjE0NTk2MTkwMjI4.D0dhIA.4ie-Goq7RvVzfoCd9E-RriBKEtI);
+client.login(process.env.token);
